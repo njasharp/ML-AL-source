@@ -1,4 +1,4 @@
-print("new nft d")
+print("new nft bird")
 # Built with python 3, dependencies installed with pip 
 # library to generate images - Pillow 
 # https://pillow.readthedocs.io/en/stable/installation.html
